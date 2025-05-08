@@ -28,7 +28,6 @@ This Space uses **MediaPipe** to detect hand landmarks and a trained **Neural Ne
 2. Perform a hand gesture.
 3. Adjust confidence threshold as needed.
 [Try the demo on Hugging Face](https://speccco-sign-language.hf.space/?__theme=dark)
-
 [Try the demo on Streamlit](https://real-time-sign-language-classifier.streamlit.app/)
 ---
 
