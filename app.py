@@ -34,8 +34,8 @@ def predict_sign(landmarks, model, label_encoder):
     return predicted_label, confidence
 
 # Load model and label encoder
-model_path = "Model/best_model.keras"
-encoder_path = "Model/label_encoder.pkl"
+model_path = "best_model.keras"
+encoder_path = "label_encoder.pkl"
 model, label_encoder = load_model_and_encoder(model_path, encoder_path)
 
 # Initialize MediaPipe for hand detection
