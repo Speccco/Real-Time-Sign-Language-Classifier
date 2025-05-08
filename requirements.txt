@@ -1,6 +1,7 @@
-gradio
+streamlit
+opencv-python-headless
 mediapipe
-opencv-python
 tensorflow
-scikit-learn
 numpy
+Pillow
+scikit-learn
