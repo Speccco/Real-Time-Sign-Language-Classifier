@@ -1,0 +1,6 @@
+gradio
+mediapipe
+opencv-python
+tensorflow
+scikit-learn
+numpy
